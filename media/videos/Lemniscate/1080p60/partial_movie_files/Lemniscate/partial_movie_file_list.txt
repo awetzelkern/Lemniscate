@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/tools/Manim/Projects/Lemniscate/media/videos/Lemniscate/1080p60/partial_movie_files/Lemniscate/3977891868_3350626703_223132457.mp4'
+file 'file:C:/tools/Manim/Projects/Lemniscate/media/videos/Lemniscate/1080p60/partial_movie_files/Lemniscate/2852726489_634017564_3037226187.mp4'
